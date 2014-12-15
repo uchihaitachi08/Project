@@ -1,0 +1,9 @@
+#########################################################
+compiling the fortran code in linux(because the g77 compiler is one of the outdated packages that are not available in the linux now)
+so go through the follwoing codes to run the code.
+#########################################################
+follow the blog in the link provided below:
+http://ubuntuforums.org/showthread.php?t=2247248
+http://www.linuxquestions.org/questions/linux-newbie-8/compiling-via-makefile-g77-command-not-found-ubuntu-4175528091/
+######################################################################################################################
+######################################################################################################################

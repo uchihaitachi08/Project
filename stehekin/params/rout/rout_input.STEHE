@@ -1,0 +1,27 @@
+# Sample Routing Information File; RCSID: $Id: input.sample,v 1.2 2006/08/26 01:26:56 vicadmin Exp $
+# NAME OF FLOW DIRECTION FILE
+./stehekin/params/rout/STEHE.fdir
+# NAME OF VELOCITY FILE
+.false.
+1.50
+# NAME OF DIFF FILE
+.false.
+800
+# NAME OF XMASK FILE
+.false.
+12500
+# NAME OF FRACTION FILE
+.true.
+./stehekin/params/rout/STEHE.fract
+# NAME OF STATION FILE
+./stehekin/params/rout/STEHE.stnloc
+# PATH OF INPUT FILES AND PRECISION
+./stehekin/results/vic/default/fluxes_
+4
+# PATH OF OUTPUT FILES
+./stehekin/results/rout/default/
+# YEAR AND MONTH OF MODEL OUTPUT TO ROUTE & ROUTED OUTPUT TO WRITE
+1949 01 1951 12
+1949 01 1951 12
+# NAME OF UNIT HYDROGRAPH FILE
+./stehekin/params/rout/UH.all

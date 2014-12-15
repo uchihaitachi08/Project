@@ -1,0 +1,17 @@
+# GMT common arguments shelf
+-Ba1Yf1o:Time:/1000:Flow (cfs)::.:SWne
+-JX5/1.5
+-jX5/1.5
+-Jx1
+-R0/1/0/1
+-X1
+-x0
+-Y11
+-y-2
+EOF
+31T00:00:00/0/8000
+-X1
+-x0
+-Y11
+-y-2
+EOF
